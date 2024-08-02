@@ -1,5 +1,9 @@
 # GPT Compare
 
+## Summary
+
+GPT Compare stands at the intersection of the GPT (Generative Pre-trained Transformer) technological evolution and the practical needs of those working with AI. It serves as a critical tool for demystifying the capabilities of different GPT models, facilitating a deeper understanding and more informed use of these technologies. By enabling live experimentation and comparison, GPT Compare not only highlights the distinct characteristics and strengths of each model but also significantly contributes to the field of AI by promoting an environment of informed choice and application. In essence, GPT Compare encapsulates the spirit of innovation that drives the development of GPT models, providing a platform that enhances the accessibility and applicability of cutting-edge AI technology for a diverse range of users.
+
 ## Application Setup and Initialization Guide
 
 Follow these instructions to build and run the Docker container for the GPT Compare back-end application, which includes the initialization of the database with the schema and seeding scripts. These instructions also provide steps for running the GPT Compare front-end application and getting started as a new Admin user in the app.
